@@ -1,2 +1,2 @@
-# Introduction-to-Scripting-Part-1
+# Introduction-to-Scripting
  Entregable Práctica 2 Sistemas Interactivos (Xavier Peña Salat)
